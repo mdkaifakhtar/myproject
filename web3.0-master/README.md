@@ -1,29 +1,72 @@
-# web3.0
-A web3.0 blockchain application built with react and smart contract with solidity
+# Web3.0 🚀
 
-## Pre-requisites
+A Web3.0 blockchain application built with **React** and **Solidity Smart Contracts**.
 
-- [X] [Meta Mask](https://metamask.io/)
-- [X] [Nodejs](https://nodejs.org)
+---
 
-## Getting started
+## 📌 Pre-requisites
 
-- clone the repo
-- install modules `yarn install` or `npm run install`
+- ✅ [MetaMask](https://metamask.io/)  
+- ✅ [Node.js](https://nodejs.org)  
 
-## Running the app
+---
 
-- Running the app `yarn run dev` or `yarn run dev`
-- Building the app `yarn build` or `yarn run build`
+## ⚙️ Getting Started
 
-## Live App
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-url>
+   cd web3.0
+   ```
 
-[The App is live on vercel](https://the-krypto.vercel.app/)
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+   or
+   ```bash
+   yarn install
+   ```
 
-## Youtube Demo
+---
 
-[Watch the demo video on youtube](https://www.youtube.com/watch?v=o1fTnE_AMFc&t=28s)
+## 🖥️ Running the App
 
-## Maintain
+- Start the development server:
+  ```bash
+  npm run dev
+  ```
+  or
+  ```bash
+  yarn run dev
+  ```
 
-patrickniyogitare28@gmail.com
+- Build the app for production:
+  ```bash
+  npm run build
+  ```
+  or
+  ```bash
+  yarn build
+  ```
+
+---
+
+## 🌐 Live Demo
+
+👉 [The App is live on Vercel](https://the-krypto.vercel.app/)
+
+---
+
+## 👨‍💻 Maintainer
+
+📧 [akhtarkaif004@gmail.com](mailto:akhtarkaif004@gmail.com)
+
+---
+
+## 👥 Team - Quard Coder
+
+- **MD KAIF AKHTAR**  
+- **MAAZ RAQUIB**  
+- **FAIZ AHMAD**  
+- **MD RAYAN**
